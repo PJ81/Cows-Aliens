@@ -1,0 +1,62 @@
+
+const Const = {
+    WIDTH: 170, 
+    HEIGHT: 260,
+    SCALE: 2,
+    TWO_PI: Math.PI * 2,
+
+    GAME: 101, 
+    MENU: 102,
+    GAMEOVER: 103,
+
+    ENTER: 1,
+    PLAY: 2,
+    EXPLODE: 3,
+    DIE: 4,
+    SHOOT: 5,
+    PUSH: 6,
+    ACC: 7,
+    RAY: 8,
+    STOP: 9,
+
+    BUSH_SPEED: 115,
+    FLOOR_SPEED: 120,
+    WATER_SPEED: 130,
+    PUSH_SPEED: 250
+};
+
+const Grfx = {
+    FLOOR: 0,
+    RAY: 1,
+    BUSH: 2,
+    ALIEN: 3,
+    COW: 4,
+    PIG: 5,
+    BARREL: 6,
+    W0: 7,
+    W1: 8,
+    CLO0: 9,
+    CLO1: 10,
+    CLO2: 11,
+    CLO3: 12,
+    CLO4: 13,
+    TIMER: 14,
+    BAR: 15,
+    BACKBAR: 16,
+    MOON: 17,
+    X0: 18,
+    X1: 19,
+    X2: 20,
+    X3: 21,
+    X4: 22,
+    X5: 23,
+    X6: 24,
+    X7: 25,
+    X8: 26,
+    X9: 27,
+    X10: 28,
+    X11: 29,
+    X12: 30,
+    X13: 31,
+    X14: 32
+};    
